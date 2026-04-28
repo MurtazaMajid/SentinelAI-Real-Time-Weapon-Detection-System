@@ -25,6 +25,11 @@
 
 > Detect **weapons, persons, and vehicles** in real time — via image upload, video analysis, or live webcam feed — powered by a custom-trained YOLOv8 model and a FastAPI backend.
 
+---
+
+![SentinelAI](images/app_screenshot.png)
+
+
 <br/>
 
 </div>
